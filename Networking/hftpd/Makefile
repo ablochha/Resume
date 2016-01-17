@@ -13,7 +13,7 @@ all: hftpd ../hdb/libhdb.a
 	$(CC) $(CFLAGS) -o $@ -c $<
 
 hftpd: hftpd.o hftp_server.o udp_server.o ../common/argumentparser.o ../common/checksum.o ../common/filereader.o ../common/hftp.o ../common/puts3.o ../common/tcp_sockets.o ../common/udp_sockets.o ../common/linkedlist.o ../hdb/libhdb.a
-	$(CC) -o $@ $^ $(LDFLAGS) -lhdb -lhiredis -lz -ls3 -L/usr/local/lib -laws_dynamo
+	$(CC) -o $@ $^ $(LDFLAGS) -lhdb -lhiredis -lz
 
 hftpd.o: hftpd.c hftp_server.h udp_server.h ../common/argumentparser.h ../common/checksum.h ../common/filereader.h ../common/hftp.h ../common/puts3.h ../common/tcp_sockets.h ../common/udp_sockets.h ../common/linkedlist.h ../hdb/hdb.h
 	$(CC) $(CFLAGS) -o $@ -c $<
@@ -33,9 +33,6 @@ udp_server.o: udp_server.c udp_server.h ../common/udp_sockets.h
 	$(CC) $(CFLAGS) -o $@ -c $<
 
 ../common/hftp.o: ../common/hftp.c ../common/hftp.h ../common/filereader.h ../common/udp_sockets.h
-	$(CC) $(CFLAGS) -o $@ -c $<
-
-../common/puts3.o: ../common/puts3.c ../common/puts3.h
 	$(CC) $(CFLAGS) -o $@ -c $<
 
 ../common/tcp_sockets.o: ../common/tcp_sockets.c ../common/tcp_sockets.h
