@@ -541,33 +541,6 @@ END_TEST
  * hdb_delete_user
  ****************************************************************************/
 
-// Exercised indirectly
-
-/*****************************************************************************
- * hdb_authenticate
- ****************************************************************************/
-
-START_TEST(test_authenticate_adds_new_user)
-{
-    char *token = hdb_authenticate(con, USER1, PSWD1);
-    printf("%s", token);
-    ck_assert_msg(strlen(token) == 16, "Expected hdb_authenticate() to return a random"
-                  "16-character alphanumeric token, but found something else");
-    
-}
-END_TEST
-
-/*****************************************************************************
- * hdb_verify_token
- ****************************************************************************/
-
-/*****************************************************************************
- * generate_token
- ****************************************************************************/
-
-
-
-
 Suite* suite() {
   Suite* s;
   TCase* tc_core;
@@ -607,12 +580,6 @@ Suite* suite() {
   tcase_add_test(tc_core, test_user_file_list_contains_one_record_when_one_file_exists);
   tcase_add_test(tc_core, test_user_file_list_contains_correct_records_when_multiple_files_exist);
   tcase_add_test(tc_core, test_user_file_list_contains_correct_records_when_files_have_been_deleted);
-  tcase_add_test(tc_core, test_authenticate_adds_new_user);
-  tcase_add_test(tc_core, test_authenticate_generates_token_for_existing_user);
-  tcase_add_test(tc_core, test_authenticate_returns_null_if_incorrect_password);
-  tcase_add_test(tc_core, test_verify_token_returns_username_on_valid_token);
-  tcase_add_test(tc_core, test_verify_token_returns_null_on_invalid_token);
-  tcase_add_test(tc_core, test_generate_token_creates_valid_token);
 
   suite_add_tcase(s, tc_core);
   return s;
