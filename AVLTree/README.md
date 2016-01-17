@@ -1,5 +1,6 @@
-**AVL Tree**
-(2nd year individual assignment, written in Java)
+**AVL Tree** [Download](https://github.com/ablochha/Resume/blob/master/AVLTree/AVLTree.zip?raw=true)
+
+2nd year individual assignment, written in Java.
 
 This program uses an AVL tree to sort words into lexicographical order while maintaining a frequency variable for each unique word. It outputs uncommon keywords.
 
