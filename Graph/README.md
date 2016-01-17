@@ -1,3 +1,9 @@
-Test the program out using files from the input folder
+**Graph**
 
+Reads a simple image from a file and segments the image based on color similarity. Then, each segment of the image is repainted as the average color of the segment. A graph data structure is used to store the pixel information.
+
+Run with
+
+```
 java -jar ImageSegment.jar input/input.jpg input/output.jpg 5
+```
