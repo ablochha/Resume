@@ -10,7 +10,7 @@ Instructions to make the program [here.](https://github.com/ablochha/Resume/tree
 **Group Project**
 (2nd year team project, written in Java) 
 
-This program displays the current, the short term, and the long term weather for a selected location. See [gui](https://github.com/ablochha/Resume/tree/master/GroupProject/team23-master/src/main/java/com/team23/weather/gui) and [mars](https://github.com/ablochha/Resume/tree/master/GroupProject/team23-master/src/main/java/com/team23/weather/mars) for my contributions.
+This program displays the current, the short term, and the long term weather for a selected location. I was involved in the development of the [gui](https://github.com/ablochha/Resume/tree/master/GroupProject/team23-master/src/main/java/com/team23/weather/gui), the [mars client](https://github.com/ablochha/Resume/tree/master/GroupProject/team23-master/src/main/java/com/team23/weather/mars), and the [mars forecast model.](https://github.com/ablochha/Resume/blob/master/GroupProject/team23-master/src/main/java/com/team23/weather/models/MarsForecast.java) 
 
 Program can be downloaded [here](https://github.com/ablochha/Resume/blob/master/GroupProject/team23-master/23_weather.jar?raw=true). Run with
 
@@ -18,7 +18,44 @@ Program can be downloaded [here](https://github.com/ablochha/Resume/blob/master/
 java -jar 23_weather.jar
 ```
 
+## Additional Programs
 
+**AVLTree** [Download](https://github.com/ablochha/Resume/blob/master/AVLTree/AVLTree.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/blob/master/AVLTree)
 
+Run with
 
+```
+java -jar FindKeyWords.jar 500 DostoevskyIdiot.txt MostFrequentEnglishWords.txt
+```
 
+**Graph** [Download](https://github.com/ablochha/Resume/blob/master/Graph/ImageSegment.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/blob/master/Graph)
+
+Run with
+
+```
+java -jar ImageSegment.jar input.jpg output.jpg 5
+```
+
+**Hash Dictionary** [Download](https://github.com/ablochha/Resume/blob/master/HashDictionary/HashDictionary.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/blob/master/HashDictionary)
+
+Run with
+
+```
+java -jar Spell.jar dictionary.txt d1.txt
+```
+
+**Prim's MST** [Download](https://github.com/ablochha/Resume/blob/master/PrimMST/PrimMST.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/blob/master/PrimMST/)
+
+Run with
+
+```
+java -jar PrimMST.jar
+```
+
+**Union-Find** [Download](https://github.com/ablochha/Resume/blob/master/UnionFind/UnionFind.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/blob/master/UnionFind)
+
+Run with 
+
+```
+java -jar UnionFind.jar
+```

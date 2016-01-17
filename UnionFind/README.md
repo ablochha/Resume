@@ -1,5 +1,6 @@
-**Union Find**
-(3rd year individual assignment, written in Java)
+**Union Find** [Download](https://github.com/ablochha/Resume/blob/master/UnionFind/UnionFind.zip?raw=true)
+
+3rd year individual assignment, written in Java.
 
 This program reads in a simple graph and finds connected components using the Union Find data structure. The graph is then re-printed with each component labelled.
 

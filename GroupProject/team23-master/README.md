@@ -15,10 +15,8 @@ There is also the ability to view Martian weather as seen by the Curiosity rover
 
 The program uses the [GSON](https://code.google.com/p/google-gson/) library for (de)serialization, [Log4j](http://logging.apache.org/log4j/1.2/http://logging.apache.org/log4j/1.2/) for logging, and [JUnit](http://junit.org) for testing.
 
-More information available on the [Project's Wiki](https://github.com/UWO-2212-W2015/team23/wiki).
-
 ## Install
-Program can be downloaded [here](https://github.com/UWO-2212-W2015/team23/blob/master/23_weather.jar?raw=true). Run with
+Program can be downloaded [here](https://github.com/ablochha/Resume/blob/master/GroupProject/team23-master/23_weather.jar?raw=true). Run with
 
 ```
 java -jar 23_weather.jar
