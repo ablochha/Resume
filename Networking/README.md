@@ -36,11 +36,17 @@ Clone or download the files from this repository. From the Networking folder, ty
 
 This program has 3 runnable files: `client`, `hmds`, and `hftpd`. Run each file in its own window/terminal/session. The client can be given the name of a directory to copy using `-d <directoryname>` and it will be copied to `~/tmp/hftpd/` by default. The client must be given a username and password as arguments. Both of the servers can be run without extra arguments.
 
+Make sure both servers are running before starting the client.
+
 ```
-./client -d ../common/ username password
 ./hmds
 ./hftpd
+./client -d ../common/ username password
 ```
+
+### Exit
+
+To shut down a running server, press ctrl+c.
 
 ### Command line arguments
 
