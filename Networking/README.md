@@ -1,5 +1,7 @@
 ## Hooli Database [Download](https://github.com/ablochha/Resume/blob/master/Networking/Networking.zip?raw=true)
 
+This program was developed to run on Ubuntu 14.04.
+
 The Hooli Database client lets the user upload files to a server. Each file's checksum is calculated and the filenames and checksums are checked against the Hooli Database (Redis), and only the files that have been locally updated will be uploaded. 
 
 The Hooli Metadata server attempts to sync any clients that connect to it with the Hooli Database. If the client successfully authenticates with the database, the server will check to see which of the client's files need to be uploaded and will request them from the client. The Hooli Metadata Protocol is used to communicate with the metadata server.
