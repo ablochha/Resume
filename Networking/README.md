@@ -4,9 +4,9 @@ This program was developed to run on Ubuntu 14.04.
 
 The Hooli Database client lets the user upload files to a server. Each file's checksum is calculated and the filenames and checksums are checked against the Hooli Database (Redis), and only the files that have been locally updated will be uploaded. 
 
-The Hooli Metadata server attempts to sync any clients that connect to it with the Hooli Database. If the client successfully authenticates with the database, the server will check to see which of the client's files need to be uploaded and will request them from the client. The Hooli Metadata Protocol is used to communicate with the metadata server.
+The Hooli Metadata server attempts to sync any clients that connect to it with the Hooli Database. If the client successfully authenticates with the database, the server will check to see which of the client's files need to be uploaded and will request them from the client. The [Hooli Metadata Protocol](https://gist.github.com/jsuwo/e9f4c35e0e78a9662e59) is used to communicate with the metadata server.
 
-The Hooli File Transfer server attempts to receive files from a client. If the client was requested to upload files, then the transfer server attempts to validate the client's session token. If authenticated, client will transfer files according to the Hooli File Transfer Protocol. 
+The Hooli File Transfer server attempts to receive files from a client. If the client was requested to upload files, then the transfer server attempts to validate the client's session token. If authenticated, client will transfer files according to the [Hooli File Transfer Protocol](https://gist.github.com/jsuwo/a4b827136bb62bf64b74). 
 
 Since you will be running the client and the servers locally, the files you transfer will be end up in your `~/tmp/hftpd/` directory. This directory can be changed with a command line argument.
 
