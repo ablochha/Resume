@@ -1,6 +1,6 @@
 # Highlights
 
-**Networking**
+**Hooli Database**
 (3rd year individual project, written in C)
 
 [Download](https://github.com/ablochha/Resume/blob/master/Networking/Networking.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/tree/master/Networking)
@@ -9,7 +9,7 @@ This program consists of a client, a metadata server, and a file transfer server
 
 Instructions to build and run the program [here.](https://github.com/ablochha/Resume/tree/master/Networking) This program is built for Unix.
 
-**Group Project**
+**Weather Application**
 (2nd year team project, written in Java) 
 
 [Download](https://github.com/ablochha/Resume/blob/master/GroupProject/team23-master/23_weather.jar?raw=true) [Learn more](https://github.com/ablochha/Resume/tree/master/GroupProject/team23-master)
@@ -22,7 +22,7 @@ Run with
 java -jar 23_weather.jar
 ```
 
-## Additional Programs
+# Additional Programs
 
 **AVLTree**
 (2nd year individual assignment, written in Java)
