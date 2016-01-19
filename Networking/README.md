@@ -1,4 +1,12 @@
-**Networking**
+**Hooli Database**
+
+The Hooli Database client lets the user upload files to a server. Each file's checksum is calculated and the filenames and checksums are checked against the Hooli Database (Redis), and only the files that have been locally updated will be uploaded. 
+
+The Hooli Metadata server attempts to to sync any clients that connect to it with the Hooli Database. If the client successfully authenticates with the database, the server will check to see which of the client's files need to be uploaded and will request them from the client. The Hooli Metadata Protocol is used to communicate with the metadata server.
+
+The Hooli File Transfer server attempts to receive files from a client. If the client was requested to upload files, then the transfer server attempts to validate the client's session token. If authenticated, client will transfer files according to the Hooli File Transfer Protocol. 
+
+Since you will be running the client and the servers locally, the files you transfer will be end up in your `~/tmp/hftpd/` directory. This directory can be changed with a command line argument.
 
 ### Prerequisites
 
@@ -30,17 +38,28 @@ sudo apt-get install check
 
 ### Build
 
-Clone or download the files from this repository. From the Networking folder, type `make`.
+Clone or download the files from this repository. From the Networking directory, type `make`.
 
 ### Run
 
-This program has 3 runnable files: `client`, `hmds`, and `hftpd`. Run each file in its own window/terminal/session. The client can be given the name of a directory to copy using `-d <directoryname>` and it will be copied to `~/tmp/hftpd/` by default. The client must be given a username and password as arguments. Both of the servers can be run without extra arguments.
+This program has 3 runnable files: `client`, `hmds`, and `hftpd`. The client can be given the name of a directory to copy using `-d <directoryname>` and it will be copied to `~/tmp/hftpd/` by default. The client must be given a username and password as arguments. Both of the servers can be run without extra arguments.
 
 Make sure both servers are running before starting the client.
 
+From the hmds directory, type  
+
 ```
 ./hmds
+```
+In another window, from the hftpd directory, type
+
+```
 ./hftpd
+```
+
+In another window, from the client directory, type
+
+```
 ./client -d ../common/ username password
 ```
 
@@ -91,8 +110,7 @@ To shut down a running server, press ctrl+c.
 
 * `-v` / `--verbose`
 
-  Enable verbose output: set the syslog level to `DEBUG`.  Otherwise, it
-  should default to `INFO`.
+  Enable verbose output: set the syslog level to `DEBUG`.  Otherwise, it should default to `INFO`.
   
 * `-f` / `--flush`
 
@@ -102,7 +120,7 @@ To shut down a running server, press ctrl+c.
   
 * `-p` / `--port PORT`
 
-  Specifies the port on which to listen for HFTP messages.
+  Specifies the port on which to listen for HFTP messages. If not given, default to `10000`.
 
 * `-r HOSTNAME` / `--redis HOSTNAME`
 
@@ -114,8 +132,6 @@ To shut down a running server, press ctrl+c.
   store files as `ROOT/username/relative/path/to/file`.  If not given, default
   to `/tmp/hftpd`.
 
-  If the directory does not exist, your program should create it.
-
 * `-t` / `--timewait SECONDS`
 
   The number of seconds to spend in the *TIME_WAIT* state before exiting.  If
@@ -123,5 +139,4 @@ To shut down a running server, press ctrl+c.
 
 * `-v` / `--verbose`
 
-  Enable verbose output (see description later).  If not given, default to
-  non-verbose output.
+  Enable verbose output: set the syslog level to `DEBUG`.  Otherwise, it should default to `INFO`.
