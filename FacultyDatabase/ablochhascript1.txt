@@ -1,0 +1,69 @@
+SHOW databases;
+DROP DATABASE IF EXISTS ablochhatadb;
+
+CREATE DATABASE ablochhatadb;
+USE ablochhatadb;
+SHOW tables;
+
+CREATE TABLE professor
+(
+	firstname VARCHAR(30) NOT NULL,
+	lastname VARCHAR(30) NOT NULL,
+	userid VARCHAR(8) NOT NULL,
+	PRIMARY KEY (userid)
+);
+
+CREATE TABLE teachingassistant
+(
+	firstname VARCHAR(30) NOT NULL,
+	lastname VARCHAR(30) NOT NULL,
+	studentnumber CHAR(9),
+	userid VARCHAR(8) NOT NULL,
+	degree VARCHAR(7),
+	tapicture VARCHAR(150),
+	headsupervisoruserid VARCHAR(8),
+	FOREIGN KEY (headsupervisoruserid) REFERENCES professor(userid) ON DELETE RESTRICT,
+	PRIMARY KEY (userid)
+);
+
+CREATE TABLE course
+(
+	coursenumber VARCHAR(6) NOT NULL,
+	coursename VARCHAR(30),
+	PRIMARY KEY (coursenumber)
+);
+
+CREATE TABLE cosupervisorof
+(
+	professoruserid VARCHAR(8) NOT NULL,
+	tauserid VARCHAR(8) NOT NULL,
+	FOREIGN KEY (professoruserid) REFERENCES professor(userid),
+	FOREIGN KEY (tauserid) REFERENCES teachingassistant(userid),
+	PRIMARY KEY (professoruserid, tauserid)
+);
+
+CREATE TABLE assignedto
+(
+	tauserid VARCHAR(8) NOT NULL,
+	coursenumber VARCHAR(6) NOT NULL,
+	year YEAR(4),
+	numberofstudents INT,
+	term VARCHAR(6),
+	FOREIGN KEY (tauserid) REFERENCES teachingassistant(userid),
+	FOREIGN KEY (coursenumber) REFERENCES course(coursenumber),
+	PRIMARY KEY (tauserid, coursenumber)
+); 
+
+delimiter //
+CREATE TRIGGER year_check BEFORE INSERT ON assignedto
+	FOR EACH ROW
+	BEGIN
+		IF NEW.year < 2000 THEN
+			SET NEW.year = 2000;
+		ELSEIF NEW.year > 2029 THEN
+			SET NEW.year = 2029;
+		END IF;
+	END;//
+delimiter ;
+
+SHOW TABLES;
