@@ -8,7 +8,7 @@ The Hooli Metadata server attempts to sync any clients that connect to it with t
 
 The Hooli File Transfer server attempts to receive files from a client. If the client was requested to upload files, then the transfer server attempts to validate the client's session token. If authenticated, client will transfer files according to the [Hooli File Transfer Protocol](https://gist.github.com/jsuwo/a4b827136bb62bf64b74). 
 
-Since you will be running the client and the servers locally, the files you transfer will be end up in your `~/tmp/hftpd/` directory. This directory can be changed with a command line argument.
+Since you will be running the client and the servers locally, the files you transfer will end up in your `~/tmp/hftpd/` directory. This directory can be changed with a command line argument.
 
 ### Prerequisites
 
