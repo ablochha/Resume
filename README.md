@@ -35,6 +35,18 @@ Run with
 java -jar FindKeyWords.jar 500 DostoevskyIdiot.txt MostFrequentEnglishWords.txt
 ```
 
+**BankSystem**
+(3rd year individual assignment, written in C++)
+
+[Download](https://github.com/ablochha/Resume/blob/master/BankSystem/BankSystem.zip?raw=true) [Learn more](https://github.com/ablochha/Resume/tree/master/BankSystem)
+
+Compile and run with
+
+```
+g++ main.cpp -o main
+./main
+```
+
 **Graph**
 (2nd year individual assignment, written in Java)
 
