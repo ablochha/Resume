@@ -1,0 +1,13 @@
+2015-10-15
+User: ablochha
+Entering client screen
+Entering manage savings screen
+Entering withdraw from savings screen
+Exiting withdraw from savings screen
+Entering manage savings screen
+Entering view savings balance screen
+Exiting view savings balance screen
+Entering manage savings screen
+Exiting manage savings screen
+Entering client screen
+Exiting client screen
