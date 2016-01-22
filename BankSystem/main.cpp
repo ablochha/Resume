@@ -12,6 +12,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <ctime>
+#include <cstring>
 
 using namespace std;
 
