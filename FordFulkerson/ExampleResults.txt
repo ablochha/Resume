@@ -1,0 +1,12 @@
+Number of iterations to find maximum flow
+Trial	Vertices	Edges		Arbitrary	Fattest		Minimum
+1	1004		2003		1000		1		1000		
+2	1002		2000		1000		1000		1000		
+Max flow
+Trial	Vertices	Edges		Arbitrary	Fattest		Minimum
+1	1004		2003		1000.0		1000.0		1000.0		
+2	1002		2000		1000.0		1000.0		1000.0		
+Time (ms)
+Trial	Vertices	Edges		Arbitrary	Fattest		Minimum
+1	1004		2003		74		0		407		
+2	1002		2000		16		326		413		
