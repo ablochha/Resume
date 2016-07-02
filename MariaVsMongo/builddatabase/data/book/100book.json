@@ -1,0 +1,1504 @@
+{
+"result": [
+{
+"name": "A Wizard of Earthsea (The Earthsea Cycle, Book 1)", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Ursula K. Le Guin"
+}, 
+"isbn": {
+"isbn": "9780745103372"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "A Box of Nothing", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Peter Dickinson"
+}, 
+"isbn": {
+"isbn": "9780745105475"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "Priestess of the Damned", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Virginia Coffman"
+}, 
+"isbn": {
+"isbn": "9780745105000"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "Psycho 2", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Robert Bloch"
+}, 
+"isbn": {
+"isbn": "9780745105253"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "The Borrowers", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Mary Norton"
+}, 
+"isbn": {
+"isbn": "9780745103310"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "The Man Who Was Thursday", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "G. K. Chesterton"
+}, 
+"isbn": {
+"isbn": "9780745106038"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "The Wild Hunt of Hagworthy", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Penelope Lively"
+}, 
+"isbn": {
+"isbn": "9780745104911"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "101"
+}
+}
+}, 
+{
+"name": "The Delikon", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "H. M. Hoover"
+}, 
+"isbn": {
+"isbn": "9780416876901"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Dogsbody.", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Diana Wynne Jones"
+}, 
+"isbn": {
+"isbn": "9780416116120"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Dream for Danger", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Anna Lewins"
+}, 
+"isbn": {
+"isbn": "9780416128321"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Five children and it.", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "E. Nesbit"
+}, 
+"isbn": {
+"isbn": "9780416140422"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Vampires, Werewolves and Phantoms of the Night: Demonic Tales from Different Lands", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Winifred Finlay"
+}, 
+"isbn": {
+"isbn": "9780416622607"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Tovers", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Elisabeth Beresford"
+}, 
+"isbn": {
+"isbn": "9780416471601"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Natfact 7", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "John Tully"
+}, 
+"isbn": {
+"isbn": "9780416005424"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Postmarked the Stars", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton"
+}, 
+"isbn": {
+"isbn": "9780416883008"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "A Box of Nothing", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Peter Dickinson"
+}, 
+"isbn": {
+"isbn": "9780416966305"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Keeper of the Isis Light", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416210309"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Wind in the Willows", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Kenneth Grahame"
+}, 
+"isbn": {
+"isbn": "9780416645705"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Ring-rise, ring-set", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416229301"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Space Trap", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416497502"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Tomorrow City", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416224207"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Sandwriter", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416955200"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Archer's Goon", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Diana Wynne Jones"
+}, 
+"isbn": {
+"isbn": "9780416622805"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Are All the Giants Dead?", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Mary Norton"
+}, 
+"isbn": {
+"isbn": "9780416007428"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "She", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "H. Rider Haggard"
+}, 
+"isbn": {
+"isbn": "9780416139822"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Space demons.", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Gillian Rubinstein"
+}, 
+"isbn": {
+"isbn": "9780416137927"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Children of Lir", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Michael Scott"
+}, 
+"isbn": {
+"isbn": "9780416550009"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Dream Catcher", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Monica Hughes"
+}, 
+"isbn": {
+"isbn": "9780416052022"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Last of the Fianna", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Michael Scott"
+}, 
+"isbn": {
+"isbn": "9780416078121"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Night of the Scorpion", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Anthony Horowitz"
+}, 
+"isbn": {
+"isbn": "9780416545500"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Shapeshifters", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Otto Coontz"
+}, 
+"isbn": {
+"isbn": "9780416102628"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Silver Citadel", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Anthony Horowitz"
+}, 
+"isbn": {
+"isbn": "9780416025729"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Walking Stones", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Mollie Hunter"
+}, 
+"isbn": {
+"isbn": "9780416517903"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Thomas and the Warlock", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Mollie Hunter"
+}, 
+"isbn": {
+"isbn": "9780416517705"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "Blue Misty Monsters", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Catherine Sefton"
+}, 
+"isbn": {
+"isbn": "9780416616705"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "102"
+}
+}
+}, 
+{
+"name": "The Mortal Immortals", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Cristabel"
+}, 
+"isbn": {
+"isbn": "9780802755384"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Dream maker", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "W. A. Harbinson"
+}, 
+"isbn": {
+"isbn": "9780802712141"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Star Ka'at", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton and Dorothy Madlee"
+}, 
+"isbn": {
+"isbn": "9780802762498"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Star Ka'at", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton and Dorothy Madlee"
+}, 
+"isbn": {
+"isbn": "9780802762504"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Forward in Time", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Ben Bova"
+}, 
+"isbn": {
+"isbn": "9780802755629"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Gleaming Bright", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Josepha Sherman"
+}, 
+"isbn": {
+"isbn": "9780802782960"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Age of Wonders: Exploring the World of Science Fiction", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "David G. Hartwell"
+}, 
+"isbn": {
+"isbn": "9780802708083"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Rosey in the Present Tense", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Louise Hawes"
+}, 
+"isbn": {
+"isbn": "9780802786852"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Hong on the Range", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "William F. Wu"
+}, 
+"isbn": {
+"isbn": "9780802768629"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Passionate Ghost", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sheila Rosalynd Allen"
+}, 
+"isbn": {
+"isbn": "9780802711588"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "How to Enjoy Writing: A Book of Aid and Comfort", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Isaac Asimov and Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802709455"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and the Terrified Taxi", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802786425"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Time: 110100", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Leo P. Kelley"
+}, 
+"isbn": {
+"isbn": "9780802755513"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Joe Gosh", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Tom De Haven"
+}, 
+"isbn": {
+"isbn": "9780802768247"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Chess with a Dragon", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "David Gerrold"
+}, 
+"isbn": {
+"isbn": "9780802766885"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Ultimate World", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Hugo Gernsback"
+}, 
+"isbn": {
+"isbn": "9780802755421"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Byron's Child", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Carola Dunn"
+}, 
+"isbn": {
+"isbn": "9780802711328"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Mind Transfer", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802767486"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby, the Mixed-Up Robot", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Isaac Asimov and Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802764959"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Star Ka'ats and the Winged Warriors", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton and Dorothy Madlee"
+}, 
+"isbn": {
+"isbn": "9780802764164"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Far Side of Evil", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sylvia Louise Engdahl"
+}, 
+"isbn": {
+"isbn": "9780802788481"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Enchantress from the Stars", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sylvia Louise Engdahl"
+}, 
+"isbn": {
+"isbn": "9780802787644"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Starbrat", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "John Morressy"
+}, 
+"isbn": {
+"isbn": "9780802755490"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and the Court Jester", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Isaac Asimov and Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802781314"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and the Invaders", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov and Isaac Asimov"
+}, 
+"isbn": {
+"isbn": "9780802765994"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and the Oldest Dragon", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov and Isaac Asimov"
+}, 
+"isbn": {
+"isbn": "9780802769091"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and the Queen's Necklace", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Isaac Asimov and Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802766595"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby and Yobo's Great Adventure", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov and Isaac Asimov"
+}, 
+"isbn": {
+"isbn": "9780802768933"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Norby Down to Earth", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov and Isaac Asimov"
+}, 
+"isbn": {
+"isbn": "9780802768667"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Jupiter Effect", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "John R. Gribbin and Stephen H. Plagemann"
+}, 
+"isbn": {
+"isbn": "9780802704641"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Smoketree", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Jennifer Roberson"
+}, 
+"isbn": {
+"isbn": "9780802708267"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "An Impossible Summer", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "B. W. Clough"
+}, 
+"isbn": {
+"isbn": "9780802781505"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Fellowship of the HAND", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Edward D. Hoch"
+}, 
+"isbn": {
+"isbn": "9780802755537"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Denver Is Missing", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "D. F. Jones"
+}, 
+"isbn": {
+"isbn": "9780802703552"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Shirker: A Novel", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Chad Taylor"
+}, 
+"isbn": {
+"isbn": "9780802733504"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Year of the Rats", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Barbara Guignob Ricci"
+}, 
+"isbn": {
+"isbn": "9780802755575"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Turk", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Tom Standage"
+}, 
+"isbn": {
+"isbn": "9780802713919"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Circles and Standing Stones", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Evan Hadingham"
+}, 
+"isbn": {
+"isbn": "9780802704634"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Collapsing Universe", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Isaac Asimov"
+}, 
+"isbn": {
+"isbn": "9780802704863"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Golden Virgin", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Alan Dipper"
+}, 
+"isbn": {
+"isbn": "9780802752697"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Peculiar Exploits of Brigadier Ffellowes", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sterling E. Lanier"
+}, 
+"isbn": {
+"isbn": "9780802755483"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Peregrine: Primus", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Avram Davidson"
+}, 
+"isbn": {
+"isbn": "9780802755469"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The California Iceberg", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Harry Harrison"
+}, 
+"isbn": {
+"isbn": "9780802761941"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Solaris", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Stanislaw Lem"
+}, 
+"isbn": {
+"isbn": "9780802755261"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Flame is Green", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "R. A. Lafferty"
+}, 
+"isbn": {
+"isbn": "9780802703460"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Package in Hyperspace (Library Binding)", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802768230"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Star Ka'ats and the Plant People", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton and Dorothy Madlee"
+}, 
+"isbn": {
+"isbn": "9780802763426"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Star Ka'at World", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Andre Norton and Dorothy Madlee"
+}, 
+"isbn": {
+"isbn": "9780802763006"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Project Pendulum", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Robert Silverberg"
+}, 
+"isbn": {
+"isbn": "9780802767127"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "As on a Darkling Plain", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Ben Bova"
+}, 
+"isbn": {
+"isbn": "9780802755568"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Shareworld", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Morris Hershman"
+}, 
+"isbn": {
+"isbn": "9780802755438"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Approaching Oblivion", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Harlan Ellison"
+}, 
+"isbn": {
+"isbn": "9780802755414"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Spring Thaw", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "S. L. Stebel"
+}, 
+"isbn": {
+"isbn": "9780802710680"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Storm at the Edge of Time", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Pamela F. Service"
+}, 
+"isbn": {
+"isbn": "9780802783066"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "Summer Cool", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Al Sarrantonio"
+}, 
+"isbn": {
+"isbn": "9780802732354"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Forever City", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Richard A. Lupoff"
+}, 
+"isbn": {
+"isbn": "9780802767424"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Helpful Ghost", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sheila Rosalynd Allen"
+}, 
+"isbn": {
+"isbn": "9780802711182"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Homecoming", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Barry B. Longyear"
+}, 
+"isbn": {
+"isbn": "9780802768636"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "A Dark Traveling", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Roger Zelazny"
+}, 
+"isbn": {
+"isbn": "9780802766861"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Last Pendragon: a Novel", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Robert Rice"
+}, 
+"isbn": {
+"isbn": "9780802711809"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Left Hand of Darkness", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Ursula K. Le Guin"
+}, 
+"isbn": {
+"isbn": "9780802713025"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Legacy of Lehr", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Katherine Kurtz"
+}, 
+"isbn": {
+"isbn": "9780802766618"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Meddlesome Ghost", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Sheila Rosalynd Allen"
+}, 
+"isbn": {
+"isbn": "9780802710833"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Package in Hyperspace", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Janet Asimov"
+}, 
+"isbn": {
+"isbn": "9780802768223"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}, 
+{
+"name": "The Twilight Gate", 
+"type": "/book/book_edition", 
+"credited_to": {
+"value": "Rhondi A. Vilott Salsitz"
+}, 
+"isbn": {
+"isbn": "9780802782137"
+}, 
+"publisher": {
+"isfdb_id": {
+"value": "103"
+}
+}
+}
+]
+}

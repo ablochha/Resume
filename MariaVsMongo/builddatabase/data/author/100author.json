@@ -1,0 +1,1304 @@
+{
+"result": [
+{
+"/people/person/date_of_birth": {
+"value": "1919-01-01"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "J. D. Salinger", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1952-08-14"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Kevin Kelly", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1929-07-27"
+}, 
+"/people/person/nationality": {
+"name": "France"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Jean Baudrillard", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1956-09-25"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Danny Hillis", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1938-12-14"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Stewart Brand", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1959-10-31"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Neal Stephenson", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1882-02-02"
+}, 
+"/people/person/nationality": {
+"name": "Republic of Ireland"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "James Joyce", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1948-04-04"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Dan Simmons", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1949-01-12"
+}, 
+"/people/person/nationality": {
+"name": "Japan"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Haruki Murakami", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1880-09-12"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "H. L. Mencken", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1938-01-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Donald Knuth", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1952-06-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Kage Baker", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1928-12-16"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Philip K. Dick", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1943-03-09"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Jef Raskin", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1936-10-04"
+}, 
+"/people/person/nationality": {
+"name": "Austria"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Christopher Alexander", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1943-09-19"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Murray Silverstein", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1960-09-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Alison Bechdel", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1941-09-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Stephen Jay Gould", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1933-09-27"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Adrian Room", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1918-05-11"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Richard Feynman", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1948-04-28"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Terry Pratchett", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1892-01-03"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "J. R. R. Tolkien", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1945-11-12"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Tracy Kidder", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1956-12-14"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Peter Norvig", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1921-05-23"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "James Blish", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1934-05-15"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "John Keegan", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1944-10-02"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Vernor Vinge", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1932-08-28"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Burton Malkiel", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1945-12-31"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Connie Willis", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1935-08-22"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Annie Proulx", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1944-05-13"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Armistead Maupin", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1899-07-11"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "E. B. White", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1945-02-15"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Douglas Hofstadter", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1957-01-07"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Nicholson Baker", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1902-12-23"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Norman Maclean", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1954-04-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Anne Lamott", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1894-12-08"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "James Thurber", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1935-09-17"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Ken Kesey", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1920-08-22"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Ray Bradbury", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1843-04-15"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Henry James", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "0973"
+}, 
+"/people/person/nationality": {
+"name": "Japan"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Murasaki Shikibu", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1900-07-25"
+}, 
+"/people/person/nationality": {
+"name": "Japan"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Y\u014djir\u014d Ishizaka", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1895-10-19"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Lewis Mumford", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1932-03-18"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "John Updike", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1931-02-18"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Toni Morrison", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1912-08-15"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Julia Child", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1969"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Janice Kim", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1946"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Larry Gonick", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1945-08-14"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Steve Martin", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1957-01-27"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Frank Miller", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1903-06-25"
+}, 
+"/people/person/nationality": {
+"name": "England"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "George Orwell", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1920-01-02"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Isaac Asimov", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1965-03-31"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Steven T. Seagle", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1918-11-29"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Madeleine L'Engle", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1931-05-07"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Gene Wolfe", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1945-12-24"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Nicholas Meyer", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1931-08-12"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "William Goldman", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1938-08-25"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Frederick Forsyth", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1890-09-15"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Agatha Christie", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1948-09-20"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "George R. R. Martin", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1884-08-26"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Earl Derr Biggers", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1917-02-25"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Anthony Burgess", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1878-09-20"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Upton Sinclair, Jr.", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1980-11-02"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Joey Goebel", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1946-11-18"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Alan Dean Foster", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1914-02-05"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "William S. Burroughs", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1952-01-16"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Julie Anne Peters", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1930-02-17"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Ruth Rendell", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1950-10-27"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "A. N. Wilson", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1931-03-02"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Tom Wolfe", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1891-07-27"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Ruth Plumly Thompson", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1862-01-24"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Edith Wharton", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1907-05-12"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Leslie Charteris", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1797-08-30"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Mary Shelley", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1908-05-28"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Ian Fleming", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1953-04-16"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "J. Neil Schulman", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1964-06-22"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Dan Brown", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1954-04-25"
+}, 
+"/people/person/nationality": {
+"name": "England"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Melvin Burgess", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1876-01-12"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Jack London", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1947-08-24"
+}, 
+"/people/person/nationality": {
+"name": "Brazil"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Paulo Coelho", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1949-05-25"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Jamaica Kincaid", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1863-04-09"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Henry De Vere Stacpoole", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1819-08-01"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Herman Melville", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1879-01-01"
+}, 
+"/people/person/nationality": {
+"name": "England"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "E. M. Forster", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1859-05-22"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Arthur Conan Doyle", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1917-12-16"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Arthur C. Clarke", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1802-07-24"
+}, 
+"/people/person/nationality": {
+"name": "France"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Alexandre Dumas", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1956-12-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Jacquelyn Mitchard", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1925-10-03"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Gore Vidal", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1951-08-24"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Orson Scott Card", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1958-12-01"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Candace Bushnell", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1963"
+}, 
+"/people/person/nationality": {
+"name": "Australia"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Donna Williams", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1965"
+}, 
+"/people/person/nationality": {
+"name": "United Kingdom"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Richard K. Morgan", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1949-01-26"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Jonathan Carroll", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1915-06-10"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Saul Bellow", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1933-03-12"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Thomas Rockwell", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1943-10-08"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "R. L. Stine", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1953-02-09"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "Gabriel Rotello", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1950-10-06"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Male"
+}, 
+"name": "David Brin", 
+"type": "/book/author"
+}, 
+{
+"/people/person/date_of_birth": {
+"value": "1967-02-01"
+}, 
+"/people/person/nationality": {
+"name": "United States of America"
+}, 
+"/people/person/gender": {
+"name": "Female"
+}, 
+"name": "Meg Cabot", 
+"type": "/book/author"
+}
+]
+}

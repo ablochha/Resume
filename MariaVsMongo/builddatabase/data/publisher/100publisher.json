@@ -1,0 +1,704 @@
+{
+"result": [
+{
+"isfdb_id": {
+"value": "101"
+}, 
+"name": "Lythway Large Print", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "102"
+}, 
+"name": "Magnet", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "103"
+}, 
+"name": "Walker \u0026amp; Co.", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "104"
+}, 
+"name": "Mammoth", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "106"
+}, 
+"name": "Doubleday Foundation", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "109"
+}, 
+"name": "Meisha Merlin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "110"
+}, 
+"name": "Raven", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "111"
+}, 
+"name": "Silver Dawn Media", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "114"
+}, 
+"name": "Harper \u0026amp; Row/Perennial Library", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "117"
+}, 
+"name": "Starmont House", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "119"
+}, 
+"name": "Pied Piper", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "120"
+}, 
+"name": "Warner Aspect", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "121"
+}, 
+"name": "Aspect", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "122"
+}, 
+"name": "Mayflower", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "124"
+}, 
+"name": "Ballantine / Fawcett", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "126"
+}, 
+"name": "Universal Publishers", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "128"
+}, 
+"name": "Century", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "130"
+}, 
+"name": "MCE Publishing", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "131"
+}, 
+"name": "Morrow/Books of Wonder", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "134"
+}, 
+"name": "Norton", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "135"
+}, 
+"name": "Compact Books", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "143"
+}, 
+"name": "Warner UK", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "146"
+}, 
+"name": "Obelesk Books", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "149"
+}, 
+"name": "Allison \u0026amp; Busby", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "151"
+}, 
+"name": "Macmillan UK", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "152"
+}, 
+"name": "Lions", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "153"
+}, 
+"name": "Harcourt Brace/Magic Carpet", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "155"
+}, 
+"name": "Beaver", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "158"
+}, 
+"name": "A. Mudge", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "160"
+}, 
+"name": "Fawcett Crest", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "165"
+}, 
+"name": "Andre Deutsch", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "166"
+}, 
+"name": "Worldwide Library", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "167"
+}, 
+"name": "Congdon \u0026amp; Weed", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "168"
+}, 
+"name": "University Editions", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "169"
+}, 
+"name": "Penguin/Puffin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "170"
+}, 
+"name": "MacMillan McElderry", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "171"
+}, 
+"name": "Donning/Starblaze", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "172"
+}, 
+"name": "Doubleday UK", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "173"
+}, 
+"name": "Corgi", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "176"
+}, 
+"name": "The Women's Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "177"
+}, 
+"name": "Orbit/Futura", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "178"
+}, 
+"name": "Abacus", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "179"
+}, 
+"name": "Puffin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "181"
+}, 
+"name": "Severn House", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "183"
+}, 
+"name": "Dell Yearling", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "185"
+}, 
+"name": "Lovell", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "186"
+}, 
+"name": "Seventh World Fantasy Convention", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "188"
+}, 
+"name": "Vantage Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "189"
+}, 
+"name": "Masquerade/Rhinoceros", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "190"
+}, 
+"name": "Playboy Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "191"
+}, 
+"name": "Silhouette", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "192"
+}, 
+"name": "Millennium", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "193"
+}, 
+"name": "Dutton", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "194"
+}, 
+"name": "CD Publications", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "196"
+}, 
+"name": "Meeting House Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "199"
+}, 
+"name": "Little, Brown/Atlantic Monthly", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "204"
+}, 
+"name": "MacMillan Aladdin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "206"
+}, 
+"name": "Andersen Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "207"
+}, 
+"name": "Piper", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "208"
+}, 
+"name": "Roc UK", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "210"
+}, 
+"name": "Harris-Wolfe", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "212"
+}, 
+"name": "Donald M. Grant", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "214"
+}, 
+"name": "Red Fox", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "216"
+}, 
+"name": "Libraries Unlimited", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "217"
+}, 
+"name": "Washington Square Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "220"
+}, 
+"name": "Panther", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "221"
+}, 
+"name": "Manor", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "222"
+}, 
+"name": "Viking Kestrel", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "233"
+}, 
+"name": "Popular Library Questar", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "236"
+}, 
+"name": "Sun \u0026amp; Moon Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "237"
+}, 
+"name": "Donald I. Fine", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "238"
+}, 
+"name": "NAL/Signet Classic", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "240"
+}, 
+"name": "Macmillan Children's Books (UK)", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "241"
+}, 
+"name": "Greenwillow Books/WIlliam Morrow \u0026amp; Co.", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "242"
+}, 
+"name": "Vista", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "243"
+}, 
+"name": "Annick Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "245"
+}, 
+"name": "Berkley Medallion", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "250"
+}, 
+"name": "Collins", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "251"
+}, 
+"name": "Lancer", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "253"
+}, 
+"name": "Fantasy Press", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "257"
+}, 
+"name": "Tor Double", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "258"
+}, 
+"name": "Atheneum/Argo", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "260"
+}, 
+"name": "Macfadden", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "262"
+}, 
+"name": "Randen", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "266"
+}, 
+"name": "Little, Brown UK", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "268"
+}, 
+"name": "Five Star (ME)", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "269"
+}, 
+"name": "Unwin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "270"
+}, 
+"name": "Unicorn / Unwin", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "271"
+}, 
+"name": "Ace SF Special [2]", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "275"
+}, 
+"name": "Collier Books", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "279"
+}, 
+"name": "Macmillan/Collier", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "280"
+}, 
+"name": "Penguin/Lodestar", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "286"
+}, 
+"name": "Advent: Publishers", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "287"
+}, 
+"name": "Cheap Street", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "288"
+}, 
+"name": "Zebra/Pinnacle", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "289"
+}, 
+"name": "Kinnell", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "291"
+}, 
+"name": "Crossway", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "293"
+}, 
+"name": "Hamlyn", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "295"
+}, 
+"name": "Voyager", 
+"type": "/book/publishing_company"
+}, 
+{
+"isfdb_id": {
+"value": "297"
+}, 
+"name": "Anchor UK", 
+"type": "/book/publishing_company"
+}
+]
+}
