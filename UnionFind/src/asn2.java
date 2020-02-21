@@ -56,7 +56,7 @@ public class asn2 {
 		} //end for
 		
 		//Sort by cumulative frequency
-		for (int i = A.length-2; i >= 1; i--) {
+		for (int i = A.length-1; i >= 1; i--) {
 			
 			B[C[A[i].getFrequency()]-1].setFrequency(A[i].getFrequency());
 			B[C[A[i].getFrequency()]-1].setLabel(A[i].getLabel());
